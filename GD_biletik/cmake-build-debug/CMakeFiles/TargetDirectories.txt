@@ -1,0 +1,3 @@
+/home/alena/CLionProjects/GD_biletik/cmake-build-debug/CMakeFiles/GD_biletik.dir
+/home/alena/CLionProjects/GD_biletik/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alena/CLionProjects/GD_biletik/cmake-build-debug/CMakeFiles/rebuild_cache.dir
